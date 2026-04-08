@@ -1,0 +1,17 @@
+[
+  {
+    "Soru Numarası": "GENELS.1",
+    "Soru Metni": "Hava bilgi hizmetinde (AIS), kurallar, hava trafik hizmetleri ve hava seyrüsefer usullerine ilişkin bilgileri belirli bir tarihte yürürlüğe girecek şekilde önceden yayımlayan yayın hangisidir?",
+    "A Şıkkı": "NOTAM RAC",
+    "B Şıkkı": "Advisory NOTAM",
+    "C Şıkkı": "ATS NOTAM",
+    "D Şıkkı": "AIRAC",
+    "Doğru Cevap": "D",
+    "Açıklama": "AIRAC (Aeronautical Information Regulation And Control), operasyonel açıdan önemli değişikliklerin önceden planlı bir yürürlük tarihiyle yayımlanması için kullanılan sistemdir. Özellikle rota yapısı, yaklaşma usulleri, seyrüsefer yardımcıları, meydan prosedürleri ve benzeri değişikliklerde dispatch, flight planning ve ekip brifingi süreçlerinin doğru yapılabilmesi için AIRAC döngüleri kritik öneme sahiptir. NOTAM daha çok acil veya kısa süreli bildirimlerde kullanılırken, AIRAC planlı ve ileri tarihli yürürlüğe giriş mantığı taşır.",
+    "Zorluk Derecesi(1-5)": "2",
+    "Resim Yolu": "",
+    "Kategori": "4) COM - HABERLEŞME ( U 01 E UO 197 ) - HAVACILIK SABİT HABERLEŞME AĞI(AFTN)",
+    "Kaynak": "GENEL ATPL SORULARI",
+    "orjinal": "Aeronautical Information Service – The publication containing information on Rules of the Air, Air Traffic Services and Air Navigation Procedures, distributed in advance to become effective at a specific date, is called..\n\nA Şıkkı: NOTAM RAC\nB Şıkkı: Advisory NOTAM\nC Şıkkı: ATS NOTAM\nD Şıkkı: AIRAC"
+  }
+]
