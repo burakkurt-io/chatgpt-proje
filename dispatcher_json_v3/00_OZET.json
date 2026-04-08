@@ -1,0 +1,15 @@
+{
+  "proje": "Flight Dispatcher Turkce JSON projesi",
+  "kaynak_dagilimi": {
+    "DATS CAA Preparation Test": 118,
+    "SKY4U Aviation Service": 20,
+    "DGCA Practice Test": 36,
+    "GENEL ATPL SORULARI": 115
+  },
+  "toplam_soru": 289,
+  "format_notlari": [
+    "Kaynak alaninda PDF adı kullanılmadı.",
+    "orjinal alanı tek string olarak soru metni ve A/B/C/D şıkları halinde yazıldı.",
+    "Aynı kaynağa ait sorular tek JSON dosyasında birleştirildi."
+  ]
+}
