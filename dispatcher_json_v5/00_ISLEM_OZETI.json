@@ -1,0 +1,30 @@
+{
+  "proje": "Tek görev altında kontrollü toplu işleme - batch 2",
+  "dahil_edilen_kaynaklar": {
+    "GENEL ULUSLARARASI APTL SORULARI": 25,
+    "Bristol Groundschool": 16,
+    "Speed Wings Aviation Academy": 20
+  },
+  "genel_numaralandirma_baslangici": 116,
+  "genel_numaralandirma_bitis": 140,
+  "filtre_kurallari": [
+    "Sadece ham TXT + sikli coktan secmeli sorular alindi.",
+    "Chart/figure referansli sorular elendi.",
+    "Dispatcher disi pilotaj sorulari elendi.",
+    "Yerel mevzuat agirlikli sorular elendi.",
+    "Zayif OCR veya net olmayan cevap anahtari bulunan sorular elendi."
+  ],
+  "elenen_veya_kismen_kullanilan_pdfler": {
+    "ilide.info-flight-planning-exam-3-.pdf": "Chart/figure referansli sorularin buyuk bolumu elendi; sadece ham metinli sorular alindi.",
+    "ilide.info-flight-dispatcher-licence-review-questions-.pdf": "Pilot lisanslama, kokpit icraati ve dispatcher disi bolumler elendi; secilmis genel operasyon sorulari alindi.",
+    "ilide.info-iata-dgr-training-exam-.pdf": "Secilmis DGR sorulari alindi.",
+    "ilide.info-indoctrination-2-1-.pdf": "Pilotaj/aerodinamik agirlikli oldugu icin elendi.",
+    "ilide.info-ncaa-questions-.pdf": "Yerel mevzuat agirlikli oldugu icin elendi.",
+    "NCAA Flight Dispatch Exam Paper 2A.pdf": "Yerel mevzuat ve chart/figure bagimli kisimlar agirlikli oldugu icin elendi.",
+    "040-human-performance-limitations-questions-.pdf": "Cevap anahtari net ve dogrulanabilir bicimde ayrisamadigi icin bu partide alinmadi.",
+    "CAA Flight Dispatch Test Overview.pdf": "Yerel mevzuat agirlikli sorular baskin oldugu icin bu partide alinmadi.",
+    "ilide.info-aircraft-performance-.pdf": "Net cevap anahtari dogrulanamadigi icin bu partide alinmadi.",
+    "ilide.info-drm-human-factors-answers-.pdf": "Cevap anahtari gorunur ve dogrulanabilir bicimde yer almadigi icin bu partide alinmadi.",
+    "ilide.info-soal-wb-.pdf": "Net cevap anahtari bulunmadigi icin bu partide alinmadi."
+  }
+}
