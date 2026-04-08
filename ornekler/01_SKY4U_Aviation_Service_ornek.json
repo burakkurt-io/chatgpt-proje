@@ -1,0 +1,17 @@
+[
+  {
+    "Soru Numarası": "SKY4US.1",
+    "Soru Metni": "ATS uçuş planında (Item 10 - equipment), servis verilebilir bir Mode A (4 haneli/4096 kod) ve Mode C transponder taşıdığını göstermek için hangi harf kullanılır?",
+    "A Şıkkı": "A",
+    "B Şıkkı": "P",
+    "C Şıkkı": "C",
+    "D Şıkkı": "B",
+    "Doğru Cevap": "C",
+    "Açıklama": "ICAO ATS uçuş planında Item 10 bölümünde SSR/transponder teçhizatı standart harf kodlarıyla gösterilir. Sadece Mode A için farklı, Mode A + Mode C için farklı bir işaret kullanılır. Mode C; uçağın basınç irtifasını da ilettiği için operasyonel takip, radar tanımlaması ve ATC ayırma hizmetleri açısından kritiktir. Bu nedenle Mode A ve Mode C birlikte mevcutsa doğru işaret 'C' harfidir.",
+    "Zorluk Derecesi(1-5)": "2",
+    "Resim Yolu": "",
+    "Kategori": "11) FPL&FM - UÇUŞ PLANLAMA VE TAKİBİ ( U 01 E UO 208 ) - UÇUŞ PLANLAMASI VE İZLEME",
+    "Kaynak": "SKY4U Aviation Service",
+    "orjinal": "In the ATS flight plan Item 10 (equipment), the letter to indicate the carriage of a serviceable transponder - mode A (4 digits-4096 codes) and mode C, is:\n\nA Şıkkı: A\nB Şıkkı: P\nC Şıkkı: C\nD Şıkkı: B"
+  }
+]
